@@ -30,6 +30,19 @@ Jugador 1: **O** para mover hacia arriba y **L** para mover hacia abajo
 
 **Espacio** para pausar/continuar el juego
 
+## Downloads/Descargas
+
+[Windows 32 bits](https://dl.dropboxusercontent.com/u/58286032/juegos/Pong/Son%20Links%20Pong-win32.zip)
+
+[Windows 64 Bits](https://dl.dropboxusercontent.com/u/58286032/juegos/Pong/Son%20Links%20Pong-win64.zip)
+
+[pong.love](pong.love)
+
+For GNU/Linux and Mac you need install LÖVE **0.9.0** or newer (the last release at the motent to write this is **0.10.1**) and run ```love pong.love```
+
+Para GNU/Linux y Mac necesitas instalar LÖVE **0.9.0** o más nuevo (la ultima versión a la hora de escribir esto es las **0.10.1**) y ejecutar ```love pong.love```
+
+Don't work on LÖVE for Android and IOs
 
 ## Other credits/Otros creditos:
 
